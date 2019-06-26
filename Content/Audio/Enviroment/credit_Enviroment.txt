@@ -1,6 +1,8 @@
 door_open - ALEXANDER, orangefreesounds.com
 door_locked - BenjaminNelan, freesound.org
 door_unlock - launemax, freesound.org, modified
-cabinet_open, cabinet_close - cMilan, freesound.org
+cabinet_open - cMilan, freesound.org
+cabinet_close - cMilan, freesound.org, modified
 pencil_grab - MoKoLoKo, freesound.org, modified
 paper_grab - HarpyHarpHarp, freesound.org, modified
+light_flicker - samwd, scotchio, freesound.org, modified
